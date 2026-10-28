@@ -1,6 +1,6 @@
 # Synthetic testing results
 
-The full findings and what they mean for advising are in the insight brief, [*Getting AI Right in Business Advising*](https://research.aeoworks.org/publications/getting-ai-right-in-business-advising). This page summarizes the synthetic testing behind it.
+The full findings and what they mean for advising are in the insight brief, [*Getting AI Right in Business Advising*](https://research.aeoworks.org/publications/responsible-ai-advising). This page summarizes the synthetic testing behind it.
 
 ## What we tested
 
