@@ -1,0 +1,8 @@
+# Tested with Python 3.11 and these versions (October 2026).
+anthropic==2.3.0
+PyYAML==6.0.3
+pandas==3.1.0
+numpy==2.4.6
+scipy==1.17.1
+openpyxl==3.1.5
+pypandoc_binary==1.17   # bundles pandoc; used to read .docx prompts and convert handoffs

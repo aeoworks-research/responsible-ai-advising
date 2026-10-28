@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them as below."
+title: "Responsible AI Advising Toolkit and AI-Enabled Business Health Assessment"
+type: software
+authors:
+  - name: "Association for Enterprise Opportunity (AEO)"
+    email: research@aeoworks.org
+# CFF has no top-level "year" field; the year (2026) comes from date-released.
+# Update this date when the repository is made public, and add a repository-code URL then.
+date-released: "2026-10-28"
+license: CC-BY-4.0

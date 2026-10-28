@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+runs/
+scores/
+data/
+*.xlsx
+.DS_Store
+# Created when you run the testing scripts locally
+.venv/
+reports/
+human_scoring/
+synthetic-testing/config.yaml

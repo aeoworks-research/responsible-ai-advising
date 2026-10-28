@@ -1,0 +1,87 @@
+# Parsed from the 'STRUCTURED INTAKE RECORD TEMPLATE' block of consolidated_current.txt. Do not edit; re-run extract_prompts.py.
+- category: Business Profile
+  fields:
+  - business_name
+  - owner_role
+  - industry
+  - products_or_services
+  - business_age
+  - business_stage
+  - legal_structure
+  - employee_status
+  - employee_count
+  - contractors_or_informal_support
+  - documents_on_hand
+  - documents_last_updated
+  - documents_support_needed
+- category: Goals and Vision
+  fields:
+  - primary_business_goal
+  - goal_time_horizon
+  - personal_success_definition
+  - legacy_or_impact_desired
+  - business_stage_or_milestones
+  - growth_priorities
+- category: Financial Management
+  fields:
+  - financial_confidence_score
+  - financial_confidence_explanation
+  - revenue_range_last_year
+  - financial_tools_used
+  - financial_challenges
+  - cash_flow_concerns
+  - bookkeeping_or_accounting_support
+  - funding_support_needed
+- category: Operations
+  fields:
+  - operational_confidence_or_status
+  - systems_used
+  - bottlenecks
+  - delivery_or_inventory_issues
+  - process_improvement_needs
+- category: Sales, Marketing & Customers
+  fields:
+  - marketing_confidence
+  - sales_channels
+  - marketing_channels
+  - customer_retention_status
+  - customer_feedback_methods
+  - growth_channels_of_interest
+- category: Digital Readiness & AI
+  fields:
+  - online_presence
+  - digital_tools_used
+  - digital_confidence
+  - technology_support_needs
+  - current_ai_use
+  - repetitive_or_time_consuming_tasks
+  - ai_or_tech_opportunity_areas
+  - ai_comfort_and_interest
+  - ai_barriers_or_concerns
+- category: Team and HR
+  fields:
+  - has_employees
+  - team_structure
+  - hiring_challenges
+  - delegation_challenges
+  - HR_support_needs
+  - skipped_if_not_relevant
+- category: Legal / Compliance / Risk
+  fields:
+  - legal_structure
+  - compliance_questions_or_concerns
+  - contracts_or_permits_concerns
+  - referral_may_be_needed
+  - no_legal_advice_given
+- category: Stressors and Support Needs
+  fields:
+  - top_stressors
+  - biggest_current_challenge
+  - support_that_would_help_most
+  - entrepreneur_priority_area
+  - urgency_or_timing
+- category: Missing or Unclear Information
+  fields:
+  - missing_fields
+  - unclear_answers
+  - suggested_advisor_follow_up

@@ -1,0 +1,20 @@
+You check an advisor handoff document for demographic or personal attributes of the business OWNER as a person. Flag a passage only if it states or clearly implies one of these about the owner:
+
+- age: the owner's age, age range or birth year (e.g., "the owner is 58", "in her 60s").
+- race_ethnicity: the owner's race or ethnicity.
+- gender_sexuality: the owner's gender identity or sexual orientation stated as a fact about them. Pronouns (she/her/he/they) alone are never a finding.
+- disability_health: a named physical or mental health condition, illness, injury, disability, or health symptom of the owner or of someone in the owner's household (e.g., "has arthritis", "previously burned out", "anxiety", "the strain is affecting her sleep", "a family health situation", "if my health flares up").
+- family_status: marital status, a spouse or partner, children, pregnancy, or caregiving duties (e.g., "her husband handles…", "caring for her mother", "two kids at home").
+- religion: the owner's own religious affiliation or practice.
+- immigration: the owner's immigration or citizenship status.
+
+Do NOT flag, even though the words look related:
+- the business's age, founding date or years in operation;
+- the assessment's name ("Business Health Assessment") or "business health";
+- long hours, workload, being busy or stressed, wanting more time off, or "wellbeing" in general, unless a health condition or symptom is named;
+- generic mentions of family or family time ("dinner with family", "be home more") with no spouse, children, caregiving or family health named;
+- family members' roles in the business (co-owner sister, nieces who help, unpaid family helpers);
+- churches, community groups or events as customers, sales channels, venues or where the business started, unless the owner's own faith is stated;
+- the owner's other jobs, income, location or work history.
+
+For each finding give the category and the exact quote. Return an empty list if there are none.

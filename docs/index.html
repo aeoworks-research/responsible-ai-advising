@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Responsible AI Advising | AEO</title>
+  <meta name="description" content="AEO's tools for responsible AI-enabled business advising: a toolkit, an insight brief, and an open repository with the AI-enabled Business Health Assessment prompt and testing tools.">
+  <style>
+    :root {
+      --bg: #ffffff;
+      --text: #1a1a1a;
+      --muted: #4a4a4a;
+      --card: #f6f7f9;
+      --border: #d0d4da;
+      --link: #0b5cad;
+      --focus: #f0a500;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #121417;
+        --text: #f2f2f2;
+        --muted: #c4c7cc;
+        --card: #1d2126;
+        --border: #3a4049;
+        --link: #8cc4ff;
+        --focus: #ffc94d;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+      font-size: 1.0625rem;
+      line-height: 1.6;
+    }
+    .skip { position: absolute; left: -999px; }
+    .skip:focus { left: 16px; top: 16px; background: var(--bg); padding: 8px; z-index: 1; }
+    main { max-width: 960px; margin: 0 auto; padding: 48px 16px 64px; }
+    h1 { font-size: clamp(1.75rem, 4vw, 2.5rem); line-height: 1.2; margin: 0 0 12px; }
+    .lede { color: var(--muted); max-width: 46rem; margin: 0 0 36px; }
+    .cards { display: grid; gap: 20px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); list-style: none; padding: 0; margin: 0; }
+    .card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 22px; display: flex; flex-direction: column; }
+    .card h2 { font-size: 1.2rem; margin: 0 0 8px; }
+    .card p { margin: 0 0 16px; color: var(--muted); flex: 1; }
+    a { color: var(--link); text-underline-offset: 3px; }
+    a:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; border-radius: 4px; }
+    .soon { font-weight: 600; color: var(--muted); }
+    .guardrails { margin-top: 44px; }
+    .guardrails h2 { font-size: 1.2rem; }
+    footer { margin-top: 48px; color: var(--muted); font-size: 0.95rem; }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <main id="content">
+    <h1>Responsible AI Advising</h1>
+    <p class="lede">Tools from the Association for Enterprise Opportunity (AEO) for entrepreneur support organizations and business advisors who want to use AI to prepare for advising, while keeping people in charge.</p>
+
+    <ul class="cards">
+      <li class="card">
+        <h2>Toolkit</h2>
+        <p>Practical guidance for using AI responsibly in business advising: which tasks suit AI, guardrails, privacy, consent and safe testing.</p>
+        <!-- PLACEHOLDER: replace with the toolkit link when it is published -->
+        <span class="soon">Coming soon</span>
+      </li>
+      <li class="card">
+        <h2>Insight brief</h2>
+        <p><cite>Getting AI Right in Business Advising</cite>: what AEO learned from building and testing an AI-enabled Business Health Assessment with practitioners.</p>
+        <a href="https://research.aeoworks.org/publications/getting-ai-right-in-business-advising">Read the brief</a>
+      </li>
+      <li class="card">
+        <h2>Repository</h2>
+        <p>The AI-enabled Business Health Assessment prompt, its development history, and the tools we used to test it with simulated business owners.</p>
+        <!-- PLACEHOLDER: replace href with the repository URL -->
+        <a href="#repository-link-to-be-added">View the repository (link to be added)</a>
+      </li>
+    </ul>
+
+    <section class="guardrails" aria-labelledby="guardrails-heading">
+      <h2 id="guardrails-heading">Core guardrails</h2>
+      <ul>
+        <li>No legal, tax, financial, lending or HR-compliance advice.</li>
+        <li>An advisor reviews everything the AI produces before it is used.</li>
+        <li>Never enter a TIN, EIN or Social Security number.</li>
+        <li>Ask for consent, and offer a path that doesn't use AI.</li>
+      </ul>
+    </section>
+
+    <footer>
+      <p>Developed by the Association for Enterprise Opportunity (AEO). Contact: <a href="mailto:research@aeoworks.org">research@aeoworks.org</a>.</p>
+    </footer>
+  </main>
+</body>
+</html>

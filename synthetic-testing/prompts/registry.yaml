@@ -1,0 +1,20 @@
+# Prompt versions the testing scripts can run. To add your own: put the prompt text in a file,
+# add an entry here, then run:  python scripts/extract_prompts.py
+# Paths are relative to the repository root.
+#
+# marker: if set, only the text after the first line containing this string is used.
+
+first_revision:
+  source: "prompt/tested_versions/first_revision.txt"
+
+consolidated_sep22:
+  source: "prompt/tested_versions/consolidated_sep22.txt"
+
+# Sep 22 + an optional revenue question with seven broad ranges (the version tested in Oct 2026).
+consolidated_sep22_revenue_test:
+  source: "prompt/tested_versions/consolidated_sep22_revenue_test.txt"
+
+# The current prompt (AEO's 11 standard revenue ranges). Not yet re-tested.
+consolidated_current:
+  source: "prompt/consolidated_master_prompt.txt"
+  marker: "COPY EVERYTHING BELOW THIS LINE"
