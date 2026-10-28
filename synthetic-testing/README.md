@@ -54,7 +54,7 @@ python scripts/summarize.py                          # report in reports/summary
 
 ## Cost
 
-About **$0.30–0.45 per conversation** with the default models, plus a few cents for record extraction and roughly $0.25–0.30 per run for rubric grading. Every script records its spending and stops at your `budget_usd`. Check current model prices before you start.
+About **45 cents per conversation** with the default models; automated scoring (record extraction and rubric grading) roughly doubles that. Every script records its spending and stops at your `budget_usd`. Check current model prices before you start.
 
 ## Using your own prompt and personas
 

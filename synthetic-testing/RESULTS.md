@@ -18,7 +18,7 @@ Pilot and step 2, 28 conversations per version.
 | Checkable values fully correct | 90% | 96% |
 | Average exchanges | 32 | 21 |
 
-The AI grader preferred the consolidated prompt's advisor handoff in 78% of 80 blind comparisons.
+The AI grader preferred the consolidated prompt's advisor handoff in 77% of 44 blind comparisons.
 
 ## Guardrails
 
