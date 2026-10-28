@@ -16,7 +16,7 @@ Entrepreneur support organizations, business advisors and coaches, and anyone he
 | [`synthetic-testing/`](synthetic-testing/) | Tools to test an intake prompt against simulated business owners, with a rubric, an AI grader and guardrail stress tests, plus our [results](synthetic-testing/RESULTS.md). |
 | [`brief/`](brief/) | A pointer to the insight brief. |
 | [`toolkit/`](toolkit/) | The Responsible AI Advising Toolkit (coming soon). |
-| [`docs/`](docs/) | The project's landing page, published with GitHub Pages (link to be added). |
+| [`docs/`](docs/) | The project's landing page, published with GitHub Pages: https://aeoworks-research.github.io/responsible-ai-advising/ |
 
 ## Where to start
 
@@ -69,4 +69,4 @@ Maintained by AEO Research (research@aeoworks.org).
 ## How to cite
 
 Association for Enterprise Opportunity. (2026). *Responsible AI Advising Toolkit and
-AI-Enabled Business Health Assessment* [Repository]. [Link to be added]
+AI-Enabled Business Health Assessment* [Repository]. https://github.com/aeoworks-research/responsible-ai-advising
