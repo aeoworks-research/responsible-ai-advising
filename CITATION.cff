@@ -7,6 +7,7 @@ authors:
     email: research@aeoworks.org
 # CFF has no top-level "year" field; the year (2026) comes from date-released.
 # Update this date to the day the repository is made public.
+version: "1.0"
 date-released: "2026-10-28"
 repository-code: "https://github.com/aeoworks-research/responsible-ai-advising"
 url: "https://aeoworks-research.github.io/responsible-ai-advising/"
