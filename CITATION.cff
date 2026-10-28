@@ -6,7 +6,7 @@ authors:
   - name: "Association for Enterprise Opportunity (AEO)"
     email: research@aeoworks.org
 # CFF has no top-level "year" field; the year (2026) comes from date-released.
-# Update this date when the repository is made public, and add a repository-code URL then.
+# Update this date when the repository is made public, and add repository-code (GitHub)
+# and url (the GitHub Pages landing page) then.
 date-released: "2026-10-28"
-url: "https://research.aeoworks.org/publications/responsible-ai-advising"
 license: CC-BY-4.0

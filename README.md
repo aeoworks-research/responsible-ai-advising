@@ -2,7 +2,7 @@
 
 The Association for Enterprise Opportunity's (AEO) tools for responsible AI-enabled business advising, starting with the **AI-enabled Business Health Assessment (BHA)**: a prompt that has an AI assistant run AEO's Business Health Assessment as a short conversation with a small-business owner, then prepare a summary and a structured record for the owner's advisor.
 
-**Project page and insight brief:** https://research.aeoworks.org/publications/responsible-ai-advising. The brief, *Getting AI Right in Business Advising*, explains what we learned and why it matters.
+The insight brief [*Getting AI Right in Business Advising*](https://research.aeoworks.org/publications/responsible-ai-advising) explains what we learned and why it matters.
 
 ## Who it's for
 
@@ -16,7 +16,7 @@ Entrepreneur support organizations, business advisors and coaches, and anyone he
 | [`synthetic-testing/`](synthetic-testing/) | Tools to test an intake prompt against simulated business owners, with a rubric, an AI grader and guardrail stress tests, plus our [results](synthetic-testing/RESULTS.md). |
 | [`brief/`](brief/) | A pointer to the insight brief. |
 | [`toolkit/`](toolkit/) | The Responsible AI Advising Toolkit (coming soon). |
-| [`docs/`](docs/) | A simple page for GitHub Pages linking to the project page and this repository. The main project page is https://research.aeoworks.org/publications/responsible-ai-advising. |
+| [`docs/`](docs/) | The project's landing page, published with GitHub Pages (link to be added). |
 
 ## Where to start
 
